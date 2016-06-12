@@ -9,4 +9,4 @@ This project's purpose has three (3) goals:
 
 
 ###Acknowledgements:
-The inspiration for this project comes from several discussions with a colleauge,  Thomas Dunham. 
+Partial inspiration for this project comes from several discussions with a colleauge,  Thomas Dunham. 
